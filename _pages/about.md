@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Formalizer"
+title: "From programmer, to category theorist, to formalizer"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
