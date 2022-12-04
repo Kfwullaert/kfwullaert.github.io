@@ -15,17 +15,17 @@ Education
 * M.S. in Fundamental Mathematics, University of Antwerp, 2021
 * Ph.D in Computer Science, Delft University of Technology, 2026 (expected)
 
-##Work experience
-#======
-#* Summer 2015: Research Assistant
-#  * Github University
-#  * Duties included: Tagging issues
-#  * Supervisor: Professor Git
+## Work experience
+## ======
+## * Summer 2015: Research Assistant
+##  * Github University
+##  * Duties included: Tagging issues
+##  * Supervisor: Professor Git
 
-#* Fall 2015: Research Assistant
-#  * Github University
-#  * Duties included: Merging pull requests
-#  * Supervisor: Professor Hub
+## * Fall 2015: Research Assistant
+##  * Github University
+##  * Duties included: Merging pull requests
+##  * Supervisor: Professor Hub
 
 Publications
 ======
@@ -45,6 +45,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-#Service and leadership
-#======
-#* Currently signed in to 43 different slack teams
+## Service and leadership
+## ======
+## * Currently signed in to 43 different slack teams
