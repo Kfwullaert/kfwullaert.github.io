@@ -13,3 +13,5 @@ My interests include:
 - Category Theory
 - Semantics of Programming Languages
 - Logic, type theory and formalization
+
+I'm a contributor to the UniMath library which is a Coq library of computer-checked mathematics using the univalent point of view. It is hosted at github.com/uniMath/uniMath. 
