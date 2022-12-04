@@ -7,7 +7,7 @@ author_profile: true
 
 ## Lecture Notes 
 
-* [Category Theory for Programmers](https://emilyriehl.github.io/files/semantics.pdf).
+* [Category Theory for Programmers](https://arxiv.org/abs/2209.01259).
 
 ## Projects created during studies
 * [Bachelor Thesis](https://kfwullaert.github.io/files/BachelorThesis_LambdaCalculus.pdf)
