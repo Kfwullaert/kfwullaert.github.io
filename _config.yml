@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Kobe Wullaert"
   avatar           : "profile.jpg"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "PhD student"
   location         : "Antwerp"
-  employer         :
+  employer	   : "Delft University of Technology"
   pubmed           : 
   googlescholar    : 
   email            :
