@@ -4,7 +4,7 @@
 
 title: "Univalent Monoidal Categories"
 collection: papers
-permalink: /papers/univalent_monoidal_categories.pdf
+permalink: /papers/univalent_monoidal_categories
 excerpt: 'This paper proves that the bicategory of monoidal categories is univalent and that monoidal categories admit Rezk completions.'
 date: 2022-12-01
 venue: ''
