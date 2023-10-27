@@ -2,7 +2,7 @@
 
 ## Preprints
 
-title: "Substitution for Non-Wellfounded Syntax with Binders"
+title: "Substitution for Non-Wellfounded Syntax with Binders (preprint)"
 collection: publications
 permalink: /publications/substitution_nonwellfounded_syntax
 excerpt: 'We describe a generic construction of non-wellfounded syntax involving variable binding and its monadic substitution operation.'
