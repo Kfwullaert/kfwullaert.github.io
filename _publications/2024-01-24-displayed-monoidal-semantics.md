@@ -2,12 +2,12 @@
 
 ## Preprints
 
-title: "Univalent Monoidal Categories"
+title: "Displayed Monoidal Categories for the Semantics of Linear Logic"
 collection: publications
-permalink: /publications/univalent_monoidal_categories
-excerpt: 'This paper proves that the bicategory of monoidal categories is univalent and that monoidal categories admit Rezk completions.'
-date: 2023-07-28
-venue: 'TYPES 2022 post-proceedings'
-paperurl: 'https://doi.org/10.4230/LIPIcs.TYPES.2022.15'
+permalink: /publications/displayed_monoidal_semantics
+excerpt: 'We present a formalization of different categorical structures used to interpret linear logic.'
+date: 2024-01-09
+venue: 'CPP 2024: Proceedings of the 13th ACM SIGPLAN International Conference on Certified Programs and Proofs'
+paperurl: 'https://doi.org/10.1145/3636501.3636956'
 citation: ''
 ---
