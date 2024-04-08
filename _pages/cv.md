@@ -27,6 +27,10 @@ Education
 ##  * Duties included: Merging pull requests
 ##  * Supervisor: Professor Hub --->
 
+Research activities
+======
+* (PC membership) 7th International Conference on Applied Category Theory [https://oxford24.github.io/act_cfp.html]
+
 Publications
 ======
   <ul>{% for post in site.publications %}
