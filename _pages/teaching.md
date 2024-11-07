@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Teaching activities at the Technical University of Delft
+# Teaching activities at Delft University of Technology
 
 ## Master courses
 
