@@ -1,13 +1,11 @@
 ---
-
-## Preprints
-
 title: "Substitution for Non-Wellfounded Syntax with Binders (preprint)"
 collection: publications
 permalink: /publications/substitution_nonwellfounded_syntax
 excerpt: 'We describe a generic construction of non-wellfounded syntax involving variable binding and its monadic substitution operation.'
-#date: 2023-08-10
-# venue: 'preprint'
-paperurl: 'https://hal.science/hal-04181049'
-# citation: ''
+date: 2024-07-05
+venue: 'Proceedings of Formal Structures for Computation and Deduction (FSCD) 2024'
+slidesurl: (see R. Matthes)
+paperurl: 'https://drops.dagstuhl.de/entities/document/10.4230/LIPIcs.FSCD.2024.25'
 ---
+For the extended version, see [arxiv](https://arxiv.org/abs/2308.05485).
